@@ -1,4 +1,4 @@
-# Image classifier
+# Image classifier (Char Kuey Teow) 
 
 Classifying an object image that you want from all other images. Implementation of codes are done from literal scratch without deep learning frameworks such as Tensorflow and Keras.
 
