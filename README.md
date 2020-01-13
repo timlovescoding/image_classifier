@@ -28,7 +28,7 @@ Try it for yourself!
 
 * You only need to change the directory to your personal one *
 
-1. Go to my google drive to download the datasets,[**HERE**](https://drive.google.com/open?id=12oIU2uCpO8LjkqC3WaQ1k1dB-WGCZmdg). The image I want to classify here is Char Kuey Teow which is one of my favourite food, a Malaysia delicacy. A sample image:
+1. Go to my google drive to download the datasets,[**HERE**](https://drive.google.com/open?id=12oIU2uCpO8LjkqC3WaQ1k1dB-WGCZmdg). The image I want to classify here is Char Kuey Teow (CKT) which is one of my favourite food, a Malaysia delicacy. A sample image:
 
 ![](ckt.jpg)
 
