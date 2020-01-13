@@ -2,9 +2,7 @@
 
 ## Purpose
 
-Classifying an object image that you want from all other images. Implementation of codes are done from literal scratch without deep learning frameworks such as Tensorflow and Keras.
-
-This project provides the opportunity to understand the foundation of Neural Network. By coding Neural Networks from scratch, a better understanding of the intricacies of NN will be gained. High level API such as Tensorflow and PyTorch will then be easily understood when needed to be use.
+Classifying an object image that you want from all other images. Implementation of codes are done from literal scratch without deep learning frameworks such as Tensorflow and Keras. By coding Neural Networks from scratch, a better understanding of the intricacies of NN will be gained. High level API such as Tensorflow and PyTorch will then be easily understood when needed to be use.
 
 ## Neural Network
 
