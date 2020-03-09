@@ -6,16 +6,7 @@ Classifying an object image that you want from all other images. Implementation 
 
 ## Neural Network
 
-In order to understand Neural Networks, it can be breakdown into five major areas:
-
-1. Initialization of layers
-2. Feedforward (Activation Function selection + Cache Variable Storage)
-3. Backpropogation (Computing equations of gradients)
-4. Gradient Descent
-5. Optimization
-
-
-The codes are commented thoroughly to aid understanding of the inner workings of Neural Network and how to implement it in codes for Python. Please do view `NN_Final.py` for more information.
+Here over here for the introduction: [**Neural Network 101**](https://github.com/timothylimyl/neutral_network)
 
 ## Utilising Neural Network for image classifier
 
@@ -31,7 +22,6 @@ Try it for yourself!
 1. Go to my google drive to download the datasets,[**HERE**](https://drive.google.com/open?id=12oIU2uCpO8LjkqC3WaQ1k1dB-WGCZmdg). The image I want to classify here is Char Kuey Teow (CKT) which is one of my favourite food, a Malaysia delicacy. A sample image:
 
 ![](ckt.jpg)
-
 
 2. Take note of your directory, go to resizing.py and resize the images.
 
