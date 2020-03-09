@@ -2,18 +2,18 @@
 
 ## Neural Network
 
-PLease head over to the introduction first: [**Neural Network 101**](https://github.com/timothylimyl/neutral_network)
+Please head over to the introduction first: [**Neural Network 101**](https://github.com/timothylimyl/neutral_network)
 
 ## Results from classifier:
 
-Purpose:Classifying an object image that you want from all other images.
+Purpose: Classifying an object image that you want from all other images.
 
 In this classifier, I used the neural network that we have built to classify my favourite food, Char Kuey Teow. 
 
-![result](pics/result1)
-![result](pics/result2)
-![result](pics/result3)
-![result](pics/result4)
+![result](pics/result1.png)
+![result](pics/result2.png)
+![result](pics/result3.png)
+![result](pics/result4.png)
 
 
 On a testing set of 170 different images, it had an accuracy of +75%. I think that is pretty good considering that all of the image datasets were collected solely from Google Images and no deep learning libraries were used. I have actually used the same datesets with Convolutional Neural Network (CNN) trained in TensorFlow. Accuracy increased up to +85% which is a great improvement but not a surprising one. CNN is the default neural network for computer vision application!
