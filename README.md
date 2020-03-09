@@ -1,19 +1,29 @@
 # Image classifier (Neural Network coded from scratch!) 
 
-## Purpose
-
-Classifying an object image that you want from all other images. Implementation of codes are done from literal scratch without deep learning frameworks such as Tensorflow and Keras. By coding Neural Networks from scratch, a better understanding of the intricacies of NN will be gained. High level API such as Tensorflow and PyTorch will then be easily understood when needed to be use.
-
 ## Neural Network
 
-Here over here for the introduction: [**Neural Network 101**](https://github.com/timothylimyl/neutral_network)
+PLease head over to the introduction first: [**Neural Network 101**](https://github.com/timothylimyl/neutral_network)
+
+## Results from classifier:
+
+Purpose:Classifying an object image that you want from all other images.
+
+In this classifier, I used the neural network that we have built to classify my favourite food, Char Kuey Teow. 
+
+![result](pics/result1)
+![result](pics/result2)
+![result](pics/result3)
+![result](pics/result4)
+
+
+On a testing set of 170 different images, it had an accuracy of +75%. I think that is pretty good considering that all of the image datasets were collected solely from Google Images and no deep learning libraries were used. I have actually used the same datesets with Convolutional Neural Network (CNN) trained in TensorFlow. Accuracy increased up to +85% which is a great improvement but not a surprising one. CNN is the default neural network for computer vision application!
+
 
 ## Utilising Neural Network for image classifier
 
 Firstly, you can scrap images of a specific object off Google Images. Group the images you want to classify and have another group of random images. Tag the output of the images you want to identify as `1` which will act as the training signal for the Neural network. Images from Google are in RGB format (3-Channels). As we coded a Deep neural network here, the images has to be flatten into a vector. Note that the best way to classify images is to actually use a Convolutional Neural Network instead (this can be easily done using TensorFlow or any deep learning frameworks).
 
 Try it for yourself!
-
 
 ### HOW TO USE IT ON YOUR COMPUTER?
 
@@ -34,3 +44,7 @@ Try it for yourself!
 6. Tune the NN_Final yourself and see whether can you get better testing accuracy!
 
 Note: You will need to have Pillow, NumPy, OpenCV , matplotlib libraries installed on your computer.
+
+
+
+
