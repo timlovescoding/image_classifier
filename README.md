@@ -16,7 +16,7 @@ In this classifier, I used the neural network that we have built to classify my 
 ![result](pics/result4.png)
 
 
-On a testing set of 170 different images, it had an accuracy of +75%. I think that is pretty good considering that all of the image datasets were collected solely from Google Images and no deep learning libraries were used. I have actually used the same datesets with Convolutional Neural Network (CNN) trained in TensorFlow. Accuracy increased up to +85% which is a great improvement but not a surprising one. CNN is the default neural network for computer vision application!
+On a testing set of 170 different images, it had an accuracy of +75%. I think that is pretty good considering that all of the image datasets were collected solely from Google Images and no deep learning libraries were used. I have actually used the same datesets with Convolutional Neural Network (CNN) trained in PyTorch. Accuracy increased up to +85% which is a great improvement but not a surprising one. CNN is the default neural network for computer vision application!
 
 
 ## Utilising Neural Network for image classifier
